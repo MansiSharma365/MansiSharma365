@@ -1,5 +1,6 @@
 # Hi, I'm Mansi Sharma 👩‍💻
 
+![Mansi Sharma](./assets/profile-image.jpg)
 I’m a passionate **Java Developer** with 3 years of hands-on experience in building scalable, maintainable, and high-performance applications. I specialize in backend development using **Java** and related frameworks, and I'm continuously growing my skills in full-stack and DevOps technologies.
 
 ## 🚀 Technologies & Tools
