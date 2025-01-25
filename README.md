@@ -2,13 +2,7 @@
 
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"  alt="W3Schools.com" width="100" align="right">
 
-
-
-
-
-
-I’m a passionate **Java Developer** with 3 years of hands-on experience in building scalable, maintainable, and high-performance applications. I specialize in backend development using **Java** and related frameworks, and I'm continuously growing my skills in full-stack and DevOps technologies.
-
+<p align="left">I’m a passionate Java Developer with 3 years of hands-on experience in building scalable, maintainable, and high-performance applications. I specialize in backend development using Java and related frameworks, and I'm continuously growing my skills in full-stack and DevOps technologies.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MansiSharma365&label=Profile%20views&color=0e75b6&style=flat" alt="MansiSharma365" /> </p>
 
@@ -17,17 +11,16 @@ I’m a passionate **Java Developer** with 3 years of hands-on experience in bui
 ### **Languages:**
 - **Java**
 - **SQL**
-- **HTML/CSS**
-- **JavaScript** (Basic)
+- **OOPs (Object-Oriented Programming)** 
 
 ### **Frameworks & Libraries:**
 - **Spring Boot**
 - **Hibernate**
 - **JPA**
+- **Spring Security (JWT)**
 
 ### **Databases:**
 - **MySQL**
-- **PostgreSQL**
 - **MongoDB**
 
 ### **Version Control:**
@@ -36,36 +29,57 @@ I’m a passionate **Java Developer** with 3 years of hands-on experience in bui
 
 ### **Testing:**
 - **JUnit**
-- **Mockito**
 - **TestNG**
+- **Mockito**
 
 ### **DevOps & CI/CD:**
-- **Docker**
+- **Deployment**
 - **Jenkins**
 - **CI/CD Pipelines**
 
 ## 💼 Work Experience
-I have 3 years of experience working in fast-paced Agile environments, designing, developing, and deploying backend solutions that drive business value. My key focus areas have been:
-- Building and maintaining **RESTful APIs**.
-- Creating database schemas and optimizing queries for performance.
-- Writing clean, efficient, and well-documented code with a strong focus on **test-driven development** (TDD).
 
-## 📂 Projects
+### **Software Engineer**  
+*Network People Services Technologies Ltd. (Nov 2022 - Present)*  
+- Designed and implemented **RESTful APIs** for client-server communication, focusing on CRUD operations (GET, POST, PUT, DELETE).
+- Worked with **Redis** for in-memory caching to enhance performance and reduce database load.
+- Automated tasks using **Quartz Scheduler** and **Spring Scheduler**.
+- Integrated backend services with **front-end interfaces** to ensure seamless user experiences.
+- Provided production support, resolved issues, and ensured system stability.
+- Managed deployments and transferred files securely using **FileZilla**.
 
-### **[Project 1 Name]** - Microservices-based Web Application
-- **Description**: A microservices-based application built using **Spring Boot** and **Hibernate** for the backend. The application is containerized using **Docker** for seamless deployment and scaling.
+### **Java Developer**  
+*Prozo Distribution Pvt. Ltd. (Feb 2022 - Oct 2022)*  
+- Developed **Spring Boot REST APIs** for scalable inventory management, serving clients like **Lavie**, **Nike**, and **Boat**.
+- Automated **cron jobs** for order processing from marketplaces like **Flipkart**.
+- Integrated **WooCommerce** for real-time product data and order syncing.
+- Created **Excel reports** for tracking inventory using **Apache POI**.
+
+## 📂 Key Projects
+
+### **[Karnataka Merchant Portal]** - Microservices-based Web Application
+- **Description**: Worked as a backend developer on the Karnataka Merchant Portal, contributing to several key features, including:
+  - **Branch Code Change**: Developed functionality to allow users to update and manage branch codes.
+  - **Merchant Onboarding**: Streamlined the onboarding process for new merchants, improving user experience and reducing setup time.
+  - **UPI ID Management**: Enabled merchants to manage, update, and delete their UPI IDs.
+  - **Sound Box De-Association**: Implemented a feature to de-associate sound boxes from merchant accounts, ensuring smooth management of merchant resources.
 - **Tech Stack**: Spring Boot, Hibernate, MySQL, Docker, Jenkins
-- **GitHub Repo**: [Link to project]
 
-### **[Project 2 Name]** - RESTful API for E-commerce
-- **Description**: Developed a RESTful API for an e-commerce platform, including product management, user authentication (JWT), and order processing.
-- **Tech Stack**: Spring Boot, JPA, PostgreSQL, JWT Authentication
-- **GitHub Repo**: [Link to project]
+### **[BHIM QR Portal]**
+- **Description**: Worked on integrating multiple features like:
+  - **QR Standee Delivery**: Developed a system for efficient delivery of QR standees.
+  - **Mswipe Soundbox Integration**: Integrated soundbox functionality for improved transaction processing.
+  - **RUPAY Credit Card Management**: Enabled features for blocking/unblocking RUPAY credit cards.
+  - **CBS Bulk BHIM QR Validation**: Implemented validation for bulk BHIM QR codes.
+- **Tech Stack**: Spring Boot, MySQL, Docker, REST APIs
 
-### **[Project 3 Name]** - Personal Finance Tracker
-- **Description**: A simple application to track personal expenses and generate financial reports. 
-- **Tech Stack**: Spring Boot, MySQL, Thymeleaf
-- **GitHub Repo**: [Link to project]
+### **[Evok Subscription Module]**
+- **Description**: Implemented **evok_payout REST calls** and **TPV APIs** for third-party validation of payments.
+- **Tech Stack**: Spring Boot, MySQL, JPA
+
+### **[Timepay Bizz (Merchant App)]**
+- **Description**: Integrated APIs for **cash on UPI transactions**, **QR code generation**, and **transaction history** management for merchants.
+- **Tech Stack**: Spring Boot, MySQL, UPI Integration
 
 ## 🧑‍💻 What I’m Learning
 - **Spring Cloud** and **Microservices** architecture
@@ -76,10 +90,8 @@ I have 3 years of experience working in fast-paced Agile environments, designing
 
 Feel free to reach out if you’re interested in collaborating on exciting projects or just want to connect.
 
-- **LinkedIn**: [Your LinkedIn Profile] 
-- **Email**: [Your Email Address]
-
-
+- **LinkedIn**: [[mansi-sharma-197870224](https://in.linkedin.com/in/mansi-sharma-197870224)] 
+- **Email**: [ermansi365@gmail.com](mailto:ermansi365@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -95,24 +107,15 @@ Feel free to reach out if you’re interested in collaborating on exciting proje
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
+ 
+ 
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
   </a>
-  <a href="https://www.java2s.com/Tutorials/Java/Hibernate/Java_Hibernate_ORM.htm" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="jpa" width="40" height="40"/>
-  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   </a>
@@ -122,12 +125,7 @@ Feel free to reach out if you’re interested in collaborating on exciting proje
   <a href="https://junit.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" alt="junit" width="40" height="40"/>
   </a>
-  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mockito/mockito-original.svg" alt="mockito" width="40" height="40"/>
-  </a>
-  <a href="https://testng.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" alt="testng" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -135,7 +133,3 @@ Feel free to reach out if you’re interested in collaborating on exciting proje
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
