@@ -29,12 +29,11 @@
 
 ### **Testing:**
 - **JUnit**
-- **TestNG**
+- **UAT Testing**
 - **Mockito**
 
 ### **DevOps & CI/CD:**
 - **Deployment**
-- **Jenkins**
 - **CI/CD Pipelines**
 
 ## 💼 Work Experience
